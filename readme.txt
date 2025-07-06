@@ -1,3 +1,0 @@
-# proyecto aprender git
-
-lorem
